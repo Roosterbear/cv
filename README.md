@@ -9,8 +9,13 @@ __Learning:__ React. <br/>
 __Goals:__ Java, Ruby on Rails, Security and Networking in Python, React Native, DevOps. <br/>
 <br/>
 
-__Personal information:__
+__Personal information:__ <br/>
 Phone: (+52) 449-189-85-51 <br />
+E-mail: lfpereag@gmail.com <br/>
+Github: [Roosterbear](https://github.com/Roosterbear) <br/>
+Youtube Channel: [Roosterbear](https://www.youtube.com/channel/UC_0PhRYTsbKFNKYytRB30xA) <br/>
+twitter: @Fer_Roosterbear <br/>
+
 <br/>
 
 __Experience:__ <br/>
