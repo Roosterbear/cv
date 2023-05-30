@@ -21,6 +21,8 @@ Universidad Tecnológica de Aguascalientes (2012 - Today) <br/>
 __Projects:__
 
 [Check my Funny Verbs Game !](https://roosterbear.github.io/funny-verbs/) <br/>
+[Check my Real State Web Site for a Client in a custom-made with some code in Wordpress](https://www.proyecta-inmobiliaria.com/)<br/>
+[Check this awesome Tattoos Site for a client in Wordpress with Elementor and Crocoblocks](https://carpiotattoos.com/) <br/>
 
 <br/>
 ~~I'm working on it~~
